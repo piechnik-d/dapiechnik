@@ -6,7 +6,8 @@ links:
     url: "https://linkedin.com/in/dapiechnik"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en"
-
+ - label: Sample Analysis
+    url: "https://piechnik-d.github.io/dapiechnik/docs/SampleAnalysis.html"
   
 output:
   postcards::solana
