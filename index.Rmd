@@ -1,0 +1,38 @@
+---
+title: "Denise Piechnik"
+image: "IMG_4963.jpg"
+links:
+  - label: Resume
+    url: "https://linkedin.com/in/dapiechnik"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en"
+
+  
+output:
+  postcards::solana
+site: distill::distill_website
+---
+ 
+## Bio
+
+Denise Piechnik is a certified ecologist (ESA 2023) with research experience in the sub-disciplines of conservation, aquatic biology, entomology, and ecosystem ecology. She has over 20 years of experience in research, experimental design, statistical analysis, technical writing, and teaching. 
+
+Current interests are in positions and opportunities to use data and analytical techniques to solve problems with planning and implementing sustainability practices. 
+
+## Education - degrees held
+
+**University of California, Davis** | Davis, California
+
+PhD Ecology | Aug 1999 - Sept 2007
+
+**San Francisco State University** | San Francisco, California
+
+B.S in Biology (Ecology) | Aug 1992 - May 1995
+
+## Experience
+
+**University of Pittsburgh at Bradford** | Associate Professor of Biology (tenured) | Sept 2013 - (present - sabbatical) 
+
+**The Pennsylvania State University** | Post-doctoral Scholar - Conservation Practices in Northeastern Grazing Lands | April 2009 - Dec 2011 
+
+**The Pennsylvania State University** | Research Associate (post-doc) - Analysis of Arthropod Diversity in Gettysburgh Military National Park | April 2007 - Jan 2009
